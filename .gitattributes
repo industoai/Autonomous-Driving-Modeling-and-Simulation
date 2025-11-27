@@ -30,3 +30,8 @@ modeling/images/longitudinal_dynamic_model.png filter=lfs diff=lfs merge=lfs -te
 modeling/images/sample_throttle.png filter=lfs diff=lfs merge=lfs -text
 modeling/images/circle-trajectory.gif filter=lfs diff=lfs merge=lfs -text
 modeling/images/kinematic_results.gif filter=lfs diff=lfs merge=lfs -text
+position_estimation/images/Estimated-YX-trajectory.gif filter=lfs diff=lfs merge=lfs -text
+position_estimation/images/Estimated-YX-trajectory.png filter=lfs diff=lfs merge=lfs -text
+position_estimation/data/data.pickle filter=lfs diff=lfs merge=lfs -text
+position_estimation/images/Estimated-Theta-trajectory.gif filter=lfs diff=lfs merge=lfs -text
+position_estimation/images/Estimated-Theta-trajectory.png filter=lfs diff=lfs merge=lfs -text
