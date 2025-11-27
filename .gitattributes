@@ -18,3 +18,15 @@ error_state_estimation/images/prediction_step.png filter=lfs diff=lfs merge=lfs 
 error_state_estimation/images/measurement_update.png filter=lfs diff=lfs merge=lfs -text
 error_state_estimation/images/overview.png filter=lfs diff=lfs merge=lfs -text
 error_state_estimation/images/uncertainty.png filter=lfs diff=lfs merge=lfs -text
+modeling/images/sample_ramp.png filter=lfs diff=lfs merge=lfs -text
+modeling/images/spiral-trajectory.gif filter=lfs diff=lfs merge=lfs -text
+modeling/images/square-trajectory.gif filter=lfs diff=lfs merge=lfs -text
+modeling/images/wave-trajectory.gif filter=lfs diff=lfs merge=lfs -text
+modeling/images/infinity-trajectory.gif filter=lfs diff=lfs merge=lfs -text
+modeling/images/kinematic_model.png filter=lfs diff=lfs merge=lfs -text
+modeling/images/lateral_model.png filter=lfs diff=lfs merge=lfs -text
+modeling/images/longitudinal-trajectory.gif filter=lfs diff=lfs merge=lfs -text
+modeling/images/longitudinal_dynamic_model.png filter=lfs diff=lfs merge=lfs -text
+modeling/images/sample_throttle.png filter=lfs diff=lfs merge=lfs -text
+modeling/images/circle-trajectory.gif filter=lfs diff=lfs merge=lfs -text
+modeling/images/kinematic_results.gif filter=lfs diff=lfs merge=lfs -text
