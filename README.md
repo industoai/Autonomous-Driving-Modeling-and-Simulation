@@ -10,3 +10,5 @@ In this repository, we try to introduce important aspects of self driving cars b
 * [Vehicle Position Estimation](./position_estimation/)
 * [Error State Estimation](./error_state_estimation/)
     
+## License
+This repo is licensed under the Attribution–NonCommercial 4.0 International License (CC BY-NC 4.0).
